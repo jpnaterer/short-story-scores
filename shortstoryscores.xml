@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="../xsl/podcast.xsl"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="en-US" >
+<channel>
+<title>Short Story Scores</title>
+<description>A biweekly radio show drawing connections between the narratives and  themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each episode.</description>
+<language>en-us</language>
+<itunes:summary>A biweekly radio show drawing connections between the narratives and  themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each episode.</itunes:summary>
+<itunes:author>Jordan</itunes:author>
+<itunes:keywords></itunes:keywords>
+<itunes:subtitle>A biweekly radio show drawing connections between the narratives and  themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each e</itunes:subtitle>
+<itunes:owner>
+<itunes:name>CiTR 101.9 Vancouver</itunes:name>
+<itunes:email>jordan.naterer@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:category text='Music'>
+<itunes:category text='Radio'></itunes:category>
+<itunes:category text=''></itunes:category>
+</itunes:category>
+<itunes:image href="http://djland.citr.ca/uploads/show_image/Short_Story_Scores/Short_Story_Scores_show_image_2020_01_22_1579653789.png"/>
+<image>
+<link>https://www.citr.ca</link>
+<url>http://djland.citr.ca/uploads/show_image/Short_Story_Scores/Short_Story_Scores_show_image_2020_01_22_1579653789.png</url>
+<title>shortstoryscores-title</title>
+</image>
+<link></link> 
+<generator>CiTR Radio Podcaster</generator>
+
+<item>
+<title>Anton Chekhov</title>
+<pubDate>Wed, 19 Feb 2020 15:00:50 -0700</pubDate>
+<itunes:subtitle>Discussed Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. Some of my other Chekhov favourites are The Bishop and Anna on the Neck! &quot;Do you see circling through? Tha</itunes:subtitle>
+<itunes:summary>Discussed Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. Some of my other Chekhov favourites are The Bishop and Anna on the Neck! &quot;Do you see circling through? That's how one returns from two.&quot; - Adrianne Lenker</itunes:summary>
+<description>Discussed Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. Some of my other Chekhov favourites are The Bishop and Anna on the Neck! &quot;Do you see circling through? That's how one returns from two.&quot; - Adrianne Lenker</description>
+<enclosure url="https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41951-157678-February-19-15-00-00.mp3" length="56239751" type="audio/mpeg" />
+<guid isPermaLink="true">https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41951-157678-February-19-15-00-00.mp3</guid>
+</item>
+
+<item>
+<title>Neil Gaiman</title>
+<pubDate>Wed, 5 Feb 2020 15:02:37 -0700</pubDate>
+<itunes:subtitle>Discussing Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998]. 
+My recommended readings are Snow Glass Apples [1998] and The Goldfish Pool [1998].</itunes:subtitle>
+<itunes:summary>Discussing Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998]. 
+My recommended readings are Snow Glass Apples [1998] and The Goldfish Pool [1998].</itunes:summary>
+<description>Discussing Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998]. 
+My recommended readings are Snow Glass Apples [1998] and The Goldfish Pool [1998].</description>
+<enclosure url="https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41818-157545-February-05-15-02-00.mp3" length="54880130" type="audio/mpeg" />
+<guid isPermaLink="true">https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41818-157545-February-05-15-02-00.mp3</guid>
+</item>
+
+<item>
+<title>John Cheever</title>
+<pubDate>Wed, 22 Jan 2020 20:03:15 -0700</pubDate>
+<itunes:subtitle>Discussing The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].
+Recommendations: The Five-Forty-Eight, The Chimera</itunes:subtitle>
+<itunes:summary>Discussing The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].
+Recommendations: The Five-Forty-Eight, The Chimera</itunes:summary>
+<description>Discussing The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].
+Recommendations: The Five-Forty-Eight, The Chimera</description>
+<enclosure url="https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41719-157446-January-22-20-00-00.mp3" length="53888313" type="audio/mpeg" />
+<guid isPermaLink="true">https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41719-157446-January-22-20-00-00.mp3</guid>
+</item>
+
+</channel>
+</rss>
