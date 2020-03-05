@@ -3,12 +3,12 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="en-US" >
 <channel>
 <title>Short Story Scores</title>
-<description>A biweekly radio show drawing connections between the narratives and  themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each episode.</description>
+<description>A biweekly radio show drawing connections between the narratives and themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each episode.</description>
 <language>en-us</language>
-<itunes:summary>A biweekly radio show drawing connections between the narratives and  themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each episode.</itunes:summary>
+<itunes:summary>A biweekly radio show drawing connections between the narratives and themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each episode.</itunes:summary>
 <itunes:author>Jordan</itunes:author>
 <itunes:keywords></itunes:keywords>
-<itunes:subtitle>A biweekly radio show drawing connections between the narratives and  themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each e</itunes:subtitle>
+<itunes:subtitle>A biweekly radio show drawing connections between the narratives and themes of my favourite short stories and music! Listen as I attempt to fit a soundtrack to a particular author or anthology each e</itunes:subtitle>
 <itunes:owner>
 <itunes:name>CiTR 101.9 Vancouver</itunes:name>
 <itunes:email>jordan.naterer@gmail.com</itunes:email>
@@ -28,11 +28,21 @@
 <generator>CiTR Radio Podcaster</generator>
 
 <item>
+<title>Amal El-Mohtar</title>
+<pubDate>Wed, 4 Mar 2020 14:55:37 -0700</pubDate>
+<itunes:subtitle>Suit pockets, enchanted journals, and falling in love with a bear. This week I retell Pockets [2015], The Green Book [2010], and Seasons of Glass and Iron [2016]. My album of the episode is Man Alive!</itunes:subtitle>
+<itunes:summary>Suit pockets, enchanted journals, and falling in love with a bear. This week I retell Pockets [2015], The Green Book [2010], and Seasons of Glass and Iron [2016]. My album of the episode is Man Alive! ~ &quot;I ain't felt this world and its orbit&quot; - King Krule</itunes:summary>
+<description>Suit pockets, enchanted journals, and falling in love with a bear. This week I retell Pockets [2015], The Green Book [2010], and Seasons of Glass and Iron [2016]. My album of the episode is Man Alive! ~ &quot;I ain't felt this world and its orbit&quot; - King Krule</description>
+<enclosure url="https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-42037-157764-March-04-14-57-00.mp3" length="60528013" type="audio/mpeg" />
+<guid isPermaLink="true">https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-42037-157764-March-04-14-57-00.mp3</guid>
+</item>
+
+<item>
 <title>Anton Chekhov</title>
 <pubDate>Wed, 19 Feb 2020 15:00:50 -0700</pubDate>
-<itunes:subtitle>Discussed Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. Some of my other Chekhov favourites are The Bishop and Anna on the Neck! &quot;Do you see circling through? Tha</itunes:subtitle>
-<itunes:summary>Discussed Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. Some of my other Chekhov favourites are The Bishop and Anna on the Neck! &quot;Do you see circling through? That's how one returns from two.&quot; - Adrianne Lenker</itunes:summary>
-<description>Discussed Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. Some of my other Chekhov favourites are The Bishop and Anna on the Neck! &quot;Do you see circling through? That's how one returns from two.&quot; - Adrianne Lenker</description>
+<itunes:subtitle>This week I retell Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. The album of the episode is abysskiss ~ &quot;Do you see circling through? That's how one returns from</itunes:subtitle>
+<itunes:summary>This week I retell Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. The album of the episode is abysskiss ~ &quot;Do you see circling through? That's how one returns from two.&quot; - Adrianne Lenker</itunes:summary>
+<description>This week I retell Death of a Government Clerk [1883], Heartache [1886], Lady with the Pet Dog [1899]. The album of the episode is abysskiss ~ &quot;Do you see circling through? That's how one returns from two.&quot; - Adrianne Lenker</description>
 <enclosure url="https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41951-157678-February-19-15-00-00.mp3" length="56239751" type="audio/mpeg" />
 <guid isPermaLink="true">https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41951-157678-February-19-15-00-00.mp3</guid>
 </item>
@@ -40,12 +50,9 @@
 <item>
 <title>Neil Gaiman</title>
 <pubDate>Wed, 5 Feb 2020 15:02:37 -0700</pubDate>
-<itunes:subtitle>Discussing Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998]. 
-My recommended readings are Snow Glass Apples [1998] and The Goldfish Pool [1998].</itunes:subtitle>
-<itunes:summary>Discussing Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998]. 
-My recommended readings are Snow Glass Apples [1998] and The Goldfish Pool [1998].</itunes:summary>
-<description>Discussing Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998]. 
-My recommended readings are Snow Glass Apples [1998] and The Goldfish Pool [1998].</description>
+<itunes:subtitle>This week I retell Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998].</itunes:subtitle>
+<itunes:summary>This week I retell Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998].</itunes:summary>
+<description>This week I retell Chivalry [1998], We Can Get Them For You Wholesale [1998], and Troll Bridge [1998].</description>
 <enclosure url="https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41818-157545-February-05-15-02-00.mp3" length="54880130" type="audio/mpeg" />
 <guid isPermaLink="true">https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41818-157545-February-05-15-02-00.mp3</guid>
 </item>
@@ -53,12 +60,9 @@ My recommended readings are Snow Glass Apples [1998] and The Goldfish Pool [1998
 <item>
 <title>John Cheever</title>
 <pubDate>Wed, 22 Jan 2020 20:03:15 -0700</pubDate>
-<itunes:subtitle>Discussing The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].
-Recommendations: The Five-Forty-Eight, The Chimera</itunes:subtitle>
-<itunes:summary>Discussing The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].
-Recommendations: The Five-Forty-Eight, The Chimera</itunes:summary>
-<description>Discussing The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].
-Recommendations: The Five-Forty-Eight, The Chimera</description>
+<itunes:subtitle>This week I retell The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].</itunes:subtitle>
+<itunes:summary>This week I retell The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].</itunes:summary>
+<description>This week I retell The Enormous Radio [1947], The Swimmer [1961], and The Angel of the Bridge [1961].</description>
 <enclosure url="https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41719-157446-January-22-20-00-00.mp3" length="53888313" type="audio/mpeg" />
 <guid isPermaLink="true">https://playlist.citr.ca/podcasting/audio/2020/Short-Story-Scores-41719-157446-January-22-20-00-00.mp3</guid>
 </item>
